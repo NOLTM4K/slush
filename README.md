@@ -4,7 +4,6 @@
 Slush is a custom shell designed to enhance understanding of operating system processes and shell interaction. It allows users to execute commands and manage processes directly, providing a hands-on approach to learning the fundamentals of process management and shell functionalities.
 
 ## Demo
-Include a demo video of Slush in action here. Example:
 ![Slush Demo](out.gif)
 
 ## Project Background
