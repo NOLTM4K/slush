@@ -5,7 +5,7 @@ Slush is a custom shell designed to enhance understanding of operating system pr
 
 ## Demo
 Include a demo video of Slush in action here. Example:
-`[![Slush Demo Video](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID)`
+![Slush Demo](out.gif)
 
 ## Project Background
 Developed as part of a computer science course, Slush focuses on the core aspects of creating and managing processes within a shell environment. It is implemented in C and showcases the ability to spawn new processes, handle user commands, and simulate a basic shell interface.
